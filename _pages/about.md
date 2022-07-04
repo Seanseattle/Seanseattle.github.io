@@ -21,6 +21,7 @@ Zhiliang Xu is a computer vision researcher at the Department of Computer Vision
 
 
 # 🔥 News
+- *2022.07*: &nbsp;🎉🎉 One Paper is accepted by ECCV 2022
 - *2022.01*: &nbsp;🎉🎉 One Paper is accepted by AAAI 2022
 
 # 📝 Publications
