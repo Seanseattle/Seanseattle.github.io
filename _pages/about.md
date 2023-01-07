@@ -28,7 +28,7 @@ Zhiliang Xu is a computer vision researcher at the Department of Computer Vision
 
 (* Equal contribution)
 
-- **style swap style-based generator empowers robust face swapping (ECCV 2022). [Code](https://github.com/Seanseattle/Styleswap), [Paper](https://arxiv.org/pdf/2209.13514.pdf)**
+- **Styleswap: Style-based Generator Empowers Robust Face Swapping (ECCV 2022). [Code](https://github.com/Seanseattle/Styleswap), [Paper](https://arxiv.org/pdf/2209.13514.pdf)**
 
 &emsp; &ensp;  **Zhiliang Xu**, Hang Zhou*, Zhibin Hong, Ziwei Liu, Jiaming Liu, Zhizhi Guo,  Junyu Han, Jingtuo Liu, Errui Ding,  Jingdong Wang
 
